@@ -11,3 +11,5 @@
 ###A Laravel project
 
 A simple auth and Guards with SANTUM for a small project for a small group
+
+Landing page  <a href="https://codepen.io/iamsofiullah/pen/zYzxRGQ">source</a>
